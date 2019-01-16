@@ -1,0 +1,70 @@
+
+
+
+
+body
+{
+	background-image: url(web.png);
+	background-size:cover;
+   
+
+
+
+}
+.wrapper{
+	margin: 80px;
+}
+h1{
+	text-align: center;
+	padding: 10px;
+	color: pink;
+}
+.page
+{
+ 
+  margin: 0 auto;
+  max-width: 360px;
+  background-color:red;
+  padding: 15px 40px 50px;
+  border: 3px solid blue;
+  border-radius: 6px;
+  align-items: center;
+  
+
+	
+}
+input
+{
+
+	padding: 10px;
+	border-radius: 5px;
+	border-color: blue;
+	font-size: 34px;
+}
+.abc
+{
+	color: white;
+}
+.aa
+{
+	color: green;
+}
+#operators
+{
+	font-size: 20px;
+	height: 40px;
+	width: 60px;
+	padding-right: 10px;
+	color: darkorange;
+	border-radius: 5px;
+
+}
+.btn
+{
+
+	font-size: 20px;
+	width: 70px;
+	height: 40px;
+	margin-bottom: 10px;
+	
+}
